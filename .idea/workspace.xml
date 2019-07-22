@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d61e87-3866-4117-be89-1d6082426f77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/day1/Exerclses/Exerclses5_17_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/Exerclses/Exerclses5_17_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day1/Exerclses/Exerclses5_17_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="50">
+              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -161,8 +161,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="346" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="376" />
     <option name="width" value="1074" />
     <option name="height" value="1037" />
   </component>
@@ -181,24 +181,6 @@
               <item name="Javaclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="Javaclass" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Javaclass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javaclass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Javaclass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javaclass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Javaclass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javaclass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
-              <item name="Exerclses" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -208,7 +190,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563430980521" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563806047248" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -339,27 +321,27 @@
       <workItem from="1562912380494" duration="12050000" />
       <workItem from="1563412014505" duration="5351000" />
       <workItem from="1563426508068" duration="3796000" />
-      <workItem from="1563803634065" duration="1573000" />
+      <workItem from="1563803634065" duration="2348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165045000" />
+    <option name="totallyTimeSpent" value="165820000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="251" y="0" width="716" height="691" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19078416" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.3586626" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Database" order="7" weight="0.32983023" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.49848023" visible="true" weight="0.33024117" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.49848023" visible="true" weight="0.33271027" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50151974" side_tool="true" weight="0.33395872" />
       <window_info anchor="bottom" id="Message" order="5" />
@@ -768,8 +750,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/Exerclses/Exerclses5_17_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="50">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
